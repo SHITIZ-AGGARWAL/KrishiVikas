@@ -1,10 +1,3 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-
 html,
 body {
   margin: 0;
@@ -464,8 +457,6 @@ a.btn.active {
   border: #33e74b;
 }
 
-/*-- //place holder --*/
-
 /*-- //banner --*/
 
 /*-- features --*/
@@ -589,10 +580,6 @@ ul.tic-info li {
   margin: 0;
 }
 
-/*-- //features --*/
-
-/*-- /New-Arrivals --*/
-
 .product-shoe-info {
   padding: 15px;
   border: 1px solid #e4e4e4;
@@ -641,7 +628,6 @@ span.product-new-top {
   color: #fff;
 }
 
-/*-- //New-Arrivals --*/
 
 section#brands {
   background: #1e272e;
@@ -681,7 +667,6 @@ section#brands {
   margin-bottom: 0.5em;
 }
 
-/*-- /testimonials --*/
 
 .testimonials {
   background: #f2f2f2;
@@ -747,7 +732,7 @@ ul.list-unstyled.w3layouts-icons.clients li span:hover {
   -ms-transition: 0.5s all;
 }
 
-/*-- //testimonials --*/
+
 
 .men-thumb-item {
   position: relative;
@@ -799,11 +784,6 @@ li.breadcrumb-item a {
   color: #ff4c4c;
 }
 
-/*--//breadcrumbr--*/
-
-/*--/shop--*/
-
-/*-- special deals --*/
 
 .img-deal1 {
   padding: 0;
@@ -1076,7 +1056,6 @@ h2.logo-2 a {
   min-height: 10em;
 }
 
-/*--//contact--*/
 
 .map-fo iframe {
   min-height: 350px;
@@ -1122,9 +1101,7 @@ a.w3pvt_google {
   background: #f44336;
 }
 
-/* //social-icons */
 
-/* contact address */
 
 .contact-info h4,
 h4.sub-con-fo {
@@ -1168,9 +1145,6 @@ ul.w3layouts-icons li a {
   color: #777;
 }
 
-/* //contact address */
-
-/* copyright */
 
 .cpy-right-sec {
   background: #1c1d21;
@@ -1196,11 +1170,7 @@ ul.w3layouts-icons li a {
   color: #ff6b6b;
 }
 
-/* //copyright */
 
-/*--//footer--*/
-
-/*-- to-top --*/
 
 a.move-top span {
   color: #fff;
@@ -1212,7 +1182,6 @@ a.move-top span {
   background: #4a4b4c;
 }
 
-/*-- //to-top --*/
 
 @media (max-width: 1366px) {
   .main-banner {
@@ -1487,5 +1456,3 @@ a.move-top span {
 
 @media (max-width: 320px) {
 }
-
-/*--//responsive--*/
