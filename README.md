@@ -14,3 +14,7 @@ reforms, bills, new farming technologies and much more so that you can always be
 ## BLOGS SECTION
 
 ![image](https://user-images.githubusercontent.com/53532851/102813599-1dbb7000-43ef-11eb-9cbb-130995ff8f33.png)
+
+## ADMIN PORTAL
+
+![](READMEimg/admin.png)
