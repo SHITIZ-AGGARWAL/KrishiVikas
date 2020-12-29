@@ -20,6 +20,16 @@ We have introduced a platform where users can view products, machinery, tools, e
 
 ## PRODUCTS PAGE
 
+![](READMEimg/products.png)
+
 ## ADMIN PORTAL
 
 ![](READMEimg/admin.png)
+
+## REGISTER PAGE
+
+![](READMEimg/register.png)
+
+## LOGIN PAGE
+
+![](READMEimg/login.png)
