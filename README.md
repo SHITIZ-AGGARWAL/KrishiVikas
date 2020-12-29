@@ -20,7 +20,7 @@ We have introduced a platform where users can view products, machinery, tools, e
 
 ## PRODUCTS PAGE
 
-![](READMEimg/products.png)
+![](READMEimg/product.png)
 
 ## ADMIN PORTAL
 
