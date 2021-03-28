@@ -1,7 +1,7 @@
 # Krishi Vikas
 
 ```
-Krishi Vikas is a platform where you can directly sell and buy any farming 
+Krishi Vikas is a platform where you can sell and buy any farming 
 related product without the intervention of any third party.
 
 Through our blogs we also provide the necessary information about government
